@@ -22,7 +22,7 @@ It allows you to:
 Below is a simple visual explanation of how the tokenizer works:
 
 <p align="center">
-  <img src="docs/bpe_diagram.png" alt="Bambara BPE Tokenizer Diagram" width="450"/>
+  <img src="docs/bpe_diagram.PNG" alt="Bambara BPE Tokenizer Diagram" width="450"/>
 </p>
 
 > Example:  
@@ -50,9 +50,6 @@ bambara-bpe-tokenizer/
 │ └── bpe_diagram.png
 └── tests/ # Unit tests
 └── test_tokenizer.py
-
-yaml
-Copy code
 
 ---
 
@@ -159,9 +156,8 @@ git push origin feature/add-new-rule
 This project is licensed under the MIT License — free to use and modify for research and educational purposes.
 
 👨🏾‍💻 Author
-Your Name
-📧 your.email@example.com
+Sambou Kone
+📧 samboukone99@gmail.com
 🌍 Bamako, Mali
 
 “Language is data — and data deserves respect.” 🇲🇱
-— Bambara NLP Initiative, 2025
